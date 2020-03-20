@@ -1,0 +1,7 @@
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\bin\Debug\CSharpStudy.exe.config
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\bin\Debug\CSharpStudy.exe
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\bin\Debug\CSharpStudy.pdb
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.csprojAssemblyReference.cache
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.csproj.CoreCompileInputs.cache
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.exe
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.pdb
