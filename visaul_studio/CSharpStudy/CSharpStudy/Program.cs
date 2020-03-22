@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using FirstLibrary;
 
 namespace CSharpStudy
 {
@@ -88,6 +89,11 @@ namespace CSharpStudy
                 Console.WriteLine("번호 : " + user.No + " / " + "이름 : " + user.Name + "/ 나이 : "+ user.Age + " / 연락처 : " + user.Phone );
             }
 
+            Calc calc = new Calc();
+            calc.PrintHello();
+            Console.WriteLine(calc.Plus(10, 20));
+            FirstClass first = new FirstClass();
+            first.FirstClassPrint();
 
         }
     }

@@ -1,0 +1,5 @@
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\FirstLibrary\bin\Debug\FirstLibrary.dll
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\FirstLibrary\bin\Debug\FirstLibrary.pdb
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\FirstLibrary\obj\Debug\FirstLibrary.csproj.CoreCompileInputs.cache
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\FirstLibrary\obj\Debug\FirstLibrary.dll
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\FirstLibrary\obj\Debug\FirstLibrary.pdb

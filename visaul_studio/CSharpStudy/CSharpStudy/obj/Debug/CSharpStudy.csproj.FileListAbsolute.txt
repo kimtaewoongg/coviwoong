@@ -5,3 +5,6 @@ C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStu
 C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.csproj.CoreCompileInputs.cache
 C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.exe
 C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.pdb
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\bin\Debug\FirstLibrary.dll
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\bin\Debug\FirstLibrary.pdb
+C:\git_study\coviwoong\visaul_studio\CSharpStudy\CSharpStudy\obj\Debug\CSharpStudy.csproj.CopyComplete
